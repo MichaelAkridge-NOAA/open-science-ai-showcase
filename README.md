@@ -154,7 +154,6 @@ The following uses a trained YOLO11 object detection model combined with Depth P
 ## Fish no Fish Examples 
 ## Web App Examples
 ![app](./visuals/fish_no_fish/01.png)
-![app](./visuals/fish_no_fish/02.png)
 ![app](./visuals/fish_no_fish/03.png)
 
 
@@ -166,16 +165,12 @@ More information:
 - <b>Results</b>: Generates Model Predections in Ai-Ready YOLO format to be used during training
 
 ![app](./visuals/google_cloud_shell/processing.gif)
-![app](./visuals/google_cloud_shell/gcs_05.png)
-![app](./visuals/google_cloud_shell/gcs_07.png)
 
-### One Click Startup Deployment
+## One Click Startup Deployment
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FMichaelAkridge-NOAA%2FFish-or-No-Fish-Detector&cloudshell_git_branch=MOUSS_2016&cloudshell_print=cloud-shell-readme.txt&cloudshell_workspace=google-cloud-shell&cloudshell_tutorial=TUTORIAL.md)
 
-![app](./visuals/google_cloud_shell/gcs_01.png)
 ![app](./visuals/google_cloud_shell/gcs_02.png)
-![app](./visuals/google_cloud_shell/gcs_03.png)
-![app](./visuals/google_cloud_shell/gcs_04.png)
+
 
 # Object Detection Batch Processing & Job Mangagmnet via DB 
 placeholder
@@ -186,5 +181,3 @@ placeholder
 - Using CoreML converted model and ultralytics app template. Export of: 
 [mouss-fish-Core-ML model](https://huggingface.co/akridge/yolo11-fish-detector-grayscale/commit/6bc514313f7a25df726bd0d20a2b3d8787d53476)
 - Solid performance(>60FPS) on Iphone 15 pro max 
-
-
