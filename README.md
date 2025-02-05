@@ -67,6 +67,15 @@
 - **XLarge:** [Model Card](https://huggingface.co/akridge/yolo11x-sea-urchin-detector)
   
   ![](./visuals/urchins/urchin_xl.jpg)
+#### Model Benchmarking
+## Benchmarks
+|index|Format|Status|Size \(MB\)|metrics/mAP50-95\(B\)|Inference time \(ms/im\)|FPS|
+|---|---|---|---|---|---|---|
+|0|PyTorch|✅|38\.7|0\.5694|23\.69|42\.21|
+|1|TorchScript|✅|77\.1|0\.5619|21\.34|46\.86|
+|4|TensorRT|✅|86\.4|0\.5619|20\.72|48\.27|
+|6|TensorFlow SavedModel|✅|193\.1|0\.5619|40\.84|24\.48|
+|7|TensorFlow GraphDef|✅|76\.8|0\.5619|38\.65|25\.88|
 
 ### YOLOv8 Architecture
 
