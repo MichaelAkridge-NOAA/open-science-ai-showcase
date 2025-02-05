@@ -123,7 +123,8 @@
   "./OAH-2749_2016_B_04.JPG",TURFH,1933,2825
   "./OAH-2749_2016_B_04.JPG",TURFR,1470,887
 ```
-
+- **Screenshot:**
+  ![](./visuals/open_science_ai_gui/gui_08.png)
 ## Web Applications
 
 ### Coral Analysis
