@@ -3,6 +3,8 @@
 
 **Contact:** [Michael.Akridge@noaa.gov](mailto:Michael.Akridge@noaa.gov)
 
+**Code:** https://github.com/MichaelAkridge-NOAA/open-science-ai-toolkit
+
 <details>
   <summary><strong>Table of Contents</strong></summary>
 
