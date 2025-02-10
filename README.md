@@ -198,6 +198,7 @@
   ![](./visuals/fish_no_fish/01.png)
   ![](./visuals/fish_no_fish/03.png)
   ![](./visuals/fish_no_fish/fnf_batch_processing.png)
+  ![](./visuals/fish_no_fish/00_summary.png)  ![](./visuals/fish_no_fish/02_summary.png)
 ---
 
 ## Cloud Deployments
