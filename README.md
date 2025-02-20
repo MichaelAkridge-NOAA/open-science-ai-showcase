@@ -53,6 +53,7 @@
 ### Patch Based Vision Transformer Model Architecture (google/vit-base-patch16-224)
 #### Coral Bleaching Classifier (ViT)
 - **Model Card:** [Hugging Face Model Card](https://huggingface.co/akridge/noaa-esd-coral-bleaching-vit-classifier-v1)
+- **Demo:** [Link](https://huggingface.co/spaces/akridge/Coral-Bleaching-Classifier-Demo)
 - **Example:**
   ![](./visuals/vit/00_example.png)
   ![](./visuals/vit/01_example.png)
