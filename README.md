@@ -48,7 +48,6 @@
 
 </details>
 
-
 ## Models
 ### Patch Based Vision Transformer Model Architecture (google/vit-base-patch16-224)
 #### Coral Bleaching Classifier (ViT)
@@ -59,6 +58,12 @@
   ![](./visuals/vit/01_example.png)
   ![](./visuals/vit/02_example.png)
 ### YOLO11 Architecture
+
+#### Coral Bleaching Classifier (YOLO11n-cls)
+- **Model Card:** [Hugging Face Model Card](https://huggingface.co/akridge/yolo11n-cls-noaa-esd-coral-bleaching)
+- **Example:**
+  ![](./visuals/yolo11-cls/03_predictions_vs_ground_truthpng)
+  ![](./visuals/yolo11-cls/01_predictions_vs_ground_truth.png)
 
 #### Fish Object Detection Model
 - **Model Card:** [Hugging Face](https://huggingface.co/akridge/yolo11-fish-detector-grayscale)
