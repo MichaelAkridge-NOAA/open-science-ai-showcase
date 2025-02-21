@@ -61,7 +61,8 @@
 
 #### Coral Bleaching Classifier (YOLO11n-cls)
 - **Model Card:** [Hugging Face Model Card](https://huggingface.co/akridge/yolo11n-cls-noaa-esd-coral-bleaching)
-- **Example:**
+- **Examples:**
+
   ![](./visuals/yolo11-cls/03_predictions_vs_ground_truth.png)
   ![](./visuals/yolo11-cls/01_predictions_vs_ground_truth.png)
 
