@@ -50,13 +50,39 @@
 
 ## Models
 ### Patch Based Vision Transformer Model Architecture (google/vit-base-patch16-224)
+### Technologies Used: 
+- PyTorch, Hugging Face Transformers, Vision Transformer (ViT), Python, PIL, Torch Datasets,streamlit, gradio
 #### Coral Bleaching Classifier (ViT)
 - **Model Card:** [Hugging Face Model Card](https://huggingface.co/akridge/noaa-esd-coral-bleaching-vit-classifier-v1)
 - **Demo:** [Link](https://huggingface.co/spaces/akridge/Coral-Bleaching-Classifier-Demo)
-- **Example:**
-  ![](./visuals/vit/00_example.png)
+ ![](./visuals/vit/00_example.png)
+### Description:
+- Developed and trained a coral bleaching image classification model using a Vision Transformer (ViT) architecture to distinguish between healthy coral and bleached coral.
+### Model Architecture: 
+- Leveraged and fine-tuned a pre-trained Google ViT-base-patch16-224 model.
+- Fine-tuned only the classifier head while freezing the backbone to preserve learned features and reduce training time.
+### Data Processing:
+- Processed point-based annotations from NOAA/CoralNet to create training dataset.
+- Generated cropped/patch-based images aligned with annotated points to ensure consistent input sizes and accurate label matching.
+- Organized data into structured folders compatible with classification pipelines (train/validation/test splits).
+- Employed the Hugging Face Datasets library to load and preprocess images.
+- Converted images to RGB format and applied tokenization with AutoImageProcessor for ViT compatibility.
+- Implemented efficient data transformation and collation functions to manage pixel values and label mappings.
+### Training & Evaluation:
+- Defined training parameters using the TrainingArguments class, optimizing for 100 epochs with batch sizes of 16 and a learning rate of 3e-4.
+- Conducted evaluation at each epoch to monitor performance using an accuracy metric from the evaluate library.
+- Achieved consistent model convergence while limiting overfitting via early stopping and best-model loading strategies.
+### Results & Deployment:
+- Achieved high classification accuracy in differentiating coral health states.
+- Exported and saved both the trained model and processor for future deployment or inference.
+- Model outputs are readily deployable using developed pipelines.
+- Deployed to Demo page using python streamlit and gradio
+**Examples:**
+
   ![](./visuals/vit/01_example.png)
   ![](./visuals/vit/02_example.png)
+
+
 ### YOLO11 Architecture
 
 #### Coral Bleaching Classifier (YOLO11n-cls)
