@@ -1,7 +1,7 @@
 # Open Science AI/ML Showcase Examples
-**AI models, tools, and deployment examples focused on marine ecosystem applications.**
+**AI/ML models, tools, and deployment examples focused on marine ecosystem applications .**
 
-**Contact:** [Michael.Akridge@noaa.gov](mailto:Michael.Akridge@noaa.gov)
+**Developer Contact:** [Michael.Akridge@noaa.gov](mailto:Michael.Akridge@noaa.gov)
 
 **Code:** https://github.com/MichaelAkridge-NOAA/open-science-ai-toolkit
 
