@@ -75,7 +75,7 @@
 ### Results & Deployment:
 - Achieved high classification accuracy in differentiating coral health states.
 - Exported and saved both the trained model and processor for future deployment or inference.
-- FuturemModel training readily deployable using developed pipelines.
+- Future Model training readily deployable using developed pipelines.
 - Deployed to Demo page using python streamlit and gradio
 **Examples:**
 
