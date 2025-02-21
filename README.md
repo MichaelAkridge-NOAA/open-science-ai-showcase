@@ -75,13 +75,13 @@
 ### Results & Deployment:
 - Achieved high classification accuracy in differentiating coral health states.
 - Exported and saved both the trained model and processor for future deployment or inference.
-- Model outputs are readily deployable using developed pipelines.
+- FuturemModel training readily deployable using developed pipelines.
 - Deployed to Demo page using python streamlit and gradio
 **Examples:**
 
   ![](./visuals/vit/01_example.png)
   ![](./visuals/vit/02_example.png)
-
+  ![](./visuals/vit/00_app_demo.png)
 
 ### YOLO11 Architecture
 
