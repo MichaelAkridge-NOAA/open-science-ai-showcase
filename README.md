@@ -124,6 +124,19 @@
 - **Model Card:** [Hugging Face](https://huggingface.co/akridge/yolo8-fish-detector-grayscale)
 
 ---
+## AI for Marine Ecosystems (AI4ME) API
+AI4ME API provides **low-code** APIs for **machine learning-based image analysis** tools focused on marine research.
+
+
+- 🔗 **API Link**: [Link](https://connect.fisheries.noaa.gov/ai4me/docs) 
+- 🔗 **GitHub Repository**: [Link](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/0X_deploy/01_ai4me_api.html)   
+
+## 🔹 Features
+- **🌍 Platform-Agnostic:** Low-code and accessible via Python, R, shell, or any HTTP client.
+- **🔑 Secure:** Requires an API key for restricted endpoints.
+- **📊 Scalable & Fast:** Leverages optimized **YOLO models** for rapid predictions.
+- **🖼️ Supports Image Uploads:** Accepts images up to **20MB**.
+- **🌊 Research-Focused:** Designed for **marine ecosystem analysis**.
 
 ## Desktop Tools & GUIs
 
