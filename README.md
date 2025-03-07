@@ -293,6 +293,8 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
 NOAA Pacific Islands Fisheries Science Center (PIFSC), Ecosystem Science Division (ESD)
 
 ### Presentation: Lunch & Learn - Introduction to AI/ML for Object Detection
+[![Lunch and Learn](./visuals/other/slide_1.png)](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/01_module/01_AI_ML%20Lunch%20%26%20Learn_Object%20Detection.html)
+
 > Date: 2025-01-08 | [Link](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/01_module/01_AI_ML%20Lunch%20%26%20Learn_Object%20Detection.html) 
 - Led a one-hour session introducing object detection concepts, AI/ML workflows, and real-world applications for marine ecosystem research.
 - Discussed model lifecycle, annotation strategies, and key considerations for training and deploying models.
@@ -300,6 +302,8 @@ NOAA Pacific Islands Fisheries Science Center (PIFSC), Ecosystem Science Divisio
 
 ### Workshop: AI4ME – AI for Marine Ecosystems Workshop
 > Date: 2025-03-07 | [Link](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/00_welcome.html)
+[![AI4ME workshop](./visuals/other/workshop.png)](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/00_welcome.html)
+
 - Designed and led a hands-on workshop to equip participants with practical skills in AI/ML for marine ecosystem research.
 - Covered key topics such as dataset annotation, quality control, model training, and deployment.
 - Facilitated hands-on exercises using marine datasets, guiding participants through exploratory data analysis, model development, and evaluation.
