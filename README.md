@@ -247,7 +247,7 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
   </a>
 
 ## Hybrid Model Development
-####**YOLO + Apple Depth Pro Integration:**  
+#### **YOLO + Apple Depth Pro Integration:**  
   Combines YOLO11 object detection with depth estimation (including focal length prediction & scaling based on ground truth).  
   **Before/After Comparison:**
   ![](./visuals/ml-depth/ml_depth_02.png)
