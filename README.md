@@ -1,5 +1,5 @@
 # Open Science AI/ML Showcase Examples
-**AI/ML models, tools, and deployment examples focused on marine ecosystem applications .**
+**AI/ML models, tools, and deployment examples focused on marine ecosystem applications.**
 
 **Developer Contact:** [Michael.Akridge@noaa.gov](mailto:Michael.Akridge@noaa.gov)
 
@@ -81,11 +81,14 @@
 
   ![](./visuals/vit/01_example.png)
   ![](./visuals/vit/02_example.png)
+  
+  ### Web App Deployment
+  - #### LINK: https://huggingface.co/spaces/akridge/Coral-Bleaching-Classifier-Demo
   ![](./visuals/vit/00_app_demo.png)
 
-### YOLO11 Architecture
+### YOLO11 Architecture Projects
 
-#### Coral Bleaching Classifier (YOLO11n-cls)
+#### Coral Bleaching Classifier (YOLO11n-cls) Model
 - **Model Card:** [Hugging Face Model Card](https://huggingface.co/akridge/yolo11n-cls-noaa-esd-coral-bleaching)
 - **Examples:**
 
@@ -190,14 +193,14 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
   ![](./visuals/open_science_ai_gui/gui_08.png)
 ## Web Applications
 
-### Coral Analysis
+### Coral Analysis App
 
 #### Coral Feature Extraction
 - EfficientNet-based feature extraction.
 - **Screenshot:**
   ![](./visuals/streamlit_examples/streamlit_01_laptop_cpu_coralnet_classifer.png)
 
-#### Coral Segmentation & Class Mask Coverage
+#### Coral Segmentation & Coral Class Mask Coverage
 - **Coral Instance Segmentation (YOLO11):**
   ![](./visuals/coral_seg_01.png)
 - **Coverage Visualization:**
@@ -238,14 +241,15 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
     <img src="./visuals/ml-depth/ml_depth_01.png" alt="Depth Estimation Viewer">
   </a>
 
-- **YOLO + Apple Depth Pro Integration:**  
+## Hybrid Model Development
+####**YOLO + Apple Depth Pro Integration:**  
   Combines YOLO11 object detection with depth estimation (including focal length prediction & scaling based on ground truth).  
   **Before/After Comparison:**
   ![](./visuals/ml-depth/ml_depth_02.png)
 - **Animated Depth Visualization:**
   ![](./visuals/ml-depth/ml_depth_03.gif)
 
-#### Fish vs. No Fish Examples
+#### Fish vs. No Fish App Examples
 - **Screenshots:**
   ![](./visuals/fish_no_fish/01.png)
   ![](./visuals/fish_no_fish/03.png)
@@ -253,7 +257,7 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
   ![](./visuals/fish_no_fish/00_summary.png)  ![](./visuals/fish_no_fish/02_summary.png)
 ---
 
-## Cloud Deployments
+## Cloud Pipelines & Deployments
 
 ### Google Cloud Shell Deployment
 - **Overview:**  
@@ -283,6 +287,24 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
   Achieves >60 FPS on iPhone 15 Pro Max.
 - **Diagram:**
   ![](./visuals/coreml_flow_diagram.png)
+
+---
+## AI/ML Workshops & Trainings
+NOAA Pacific Islands Fisheries Science Center (PIFSC), Ecosystem Science Division (ESD)
+
+### Presentation: Lunch & Learn - Introduction to AI/ML for Object Detection
+> Date: 2025-01-08 | [Link](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/01_module/01_AI_ML%20Lunch%20%26%20Learn_Object%20Detection.html) 
+- Led a one-hour session introducing object detection concepts, AI/ML workflows, and real-world applications for marine ecosystem research.
+- Discussed model lifecycle, annotation strategies, and key considerations for training and deploying models.
+- Provided an overview of tools and resources for AI/ML development, including open-source annotation platforms and model training frameworks.
+
+### Workshop: AI4ME – AI for Marine Ecosystems Workshop
+> Date: 2025-03-07 | [Link](https://michaelakridge-noaa.github.io/ai4me-cookbook/content/00_welcome.html)
+- Designed and led a hands-on workshop to equip participants with practical skills in AI/ML for marine ecosystem research.
+- Covered key topics such as dataset annotation, quality control, model training, and deployment.
+- Facilitated hands-on exercises using marine datasets, guiding participants through exploratory data analysis, model development, and evaluation.
+- Demonstrated best practices for annotation workflows and introduced tools such as CVAT and Label Studio.
+- Led discussions on real-world challenges, QA/QC techniques, and deployment considerations for AI models in marine science.
 
 ---
 
