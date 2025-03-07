@@ -1,5 +1,5 @@
 # Open Science AI/ML Portfolio 
-**AI/ML models, tools,apps, pipelines and deployment examples focused on marine ecosystems and research.**
+**AI/ML models, tools, apps, pipelines and deployment examples focused on marine ecosystems and research.**
 
 **Developer Contact:** [Michael.Akridge@noaa.gov](mailto:Michael.Akridge@noaa.gov)
 
