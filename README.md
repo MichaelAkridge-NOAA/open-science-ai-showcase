@@ -211,6 +211,9 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
 - **Coverage Visualization:**
   ![](./visuals/coral_seg_02.png)
 
+#### Coral Segmentation Model Testing
+![](./visuals/GUA_015_2022_Q1_ortho_tests2.png)
+
 ### Urchin Object Detection (Web)
   
 #### Multiscale Patch-Based Detection
