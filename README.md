@@ -146,6 +146,18 @@ AI4ME API provides **low-code** APIs for **machine learning-based image analysis
 
  ![](./visuals/api/s1.png)
 
+## Google AI Studio Zero-Shot Tests
+### Segmentation 
+![](./visuals/google_ai_coral.png)
+![](./visuals/google_ai_studio_03.png)
+### Detection
+![](./visuals/google_ai_coral_02.png)
+![](./visuals/google_ai_studio_02.png)
+### 3D Detection
+![](./visuals/google_ai_studio_05.png)
+### Fish Counts in Video over time
+![](./visuals/image.png)
+
 ## Desktop Tools & GUIs
 
 ### Simple GUI for Model Training
